@@ -35,6 +35,9 @@
 <!-- OVERVIEW -->
 
 ## Overview
+<p align="center">
+<img src="https://media.giphy.com/media/NnKJnsekJnr0GeLlPk/giphy.gif" width="250"/>
+</p>
 
 
 ### Built With
@@ -66,3 +69,4 @@ $ npm build
 
 ## Contact
 - GitHub [@Vaibhavi-Sita](https://{github.com/Vaibhavi-Sita})
+- Email [@vaibhavisita](vaibhavisita@gmail.com)
